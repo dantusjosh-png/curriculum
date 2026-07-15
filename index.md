@@ -24,6 +24,10 @@ Condensed degree-level courses. Each course compresses the core of a full progra
 
 **Pacing:** ~1 hour/day. Each module ≈ 2 sessions (lecture + discussion, then application + review). One knowledge course at a time, with Writing & Reporting running continuously as a practicum alongside.
 
+## Your activity
+
+<div id="cc-dashboard"></div>
+
 ## How a course works
 
 Every course follows the same structure — see [How It Works](how-it-works) for the full pedagogy.

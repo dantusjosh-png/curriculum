@@ -32,6 +32,18 @@ Mini-quizzes, summaries, and synthesis prompts between sections.
 ### 4. Capstone & reflection
 A final integrative project simulating real-world application of everything learned, followed by reflection: *how would you apply this in your field or daily life?*
 
+## Doing the work on the site
+
+Every module page is interactive:
+
+- **Answer boxes** under discussion questions and exercises. Drafts autosave in your browser as you type — close the tab, come back, they're still there.
+- **Submit for grading** bundles your answers into a pre-filled GitHub issue (you confirm it on GitHub). That issue is the permanent submission record.
+- **The professor grades it**: feedback is posted as a comment on the issue, and the summary + verdict (pass / reteach) get written back onto the module page, with statuses updated everywhere.
+- **Module Checks** are instant-graded quizzes with explanations. Retake freely; best score is tracked, and *Log score* files it to the permanent record.
+- **Your activity** panel on the Home page shows quiz scores, drafts, and submissions from this browser.
+
+Two layers of tracking: your *browser* holds live drafts and quiz attempts (per-device); the *repo* holds the permanent record — submissions, feedback, verdicts, and progress, all visible on the pages themselves.
+
 ## How the site is organized
 
 - Every course lives in the **sidebar** as a top-level section.

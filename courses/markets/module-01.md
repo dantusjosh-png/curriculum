@@ -60,15 +60,91 @@ In the short run, price moves because of *who has to transact now* — flows and
 
 ## Discussion
 
-Questions posed — answers to be recorded:
+Answer each question in its box — drafts autosave in this browser. When all three are done, hit **Submit all answers** at the bottom: it files your answers for grading, and the feedback + verdict get logged back onto this page.
 
-1. **The market-cap illusion.** A company has 1B shares; the last trade printed $100. In precisely what sense is "this company is worth $100B" misleading — and what determines how much of that number could actually be realized?
-2. **The paradoxical rally.** CPI prints 3.2% vs. 3.0% expected — objectively hawkish — yet equities rip higher within minutes. Give **two mechanistically different** explanations, using today's concepts.
-3. **Your own edge.** Your PO3 strategy profits from continuation after certain structural breaks. In the language of this lecture: what inefficiency must exist for that edge to persist, and who is plausibly *paying* for it?
+**1. The market-cap illusion.** A company has 1B shares; the last trade printed $100. In precisely what sense is "this company is worth $100B" misleading — and what determines how much of that number could actually be realized?
+
+<div class="cc-answer" data-id="markets-m1-d1" data-group="markets-m1-discussion" data-title="Q1 — The market-cap illusion"></div>
+
+**2. The paradoxical rally.** CPI prints 3.2% vs. 3.0% expected — objectively hawkish — yet equities rip higher within minutes. Give **two mechanistically different** explanations, using today's concepts.
+
+<div class="cc-answer" data-id="markets-m1-d2" data-group="markets-m1-discussion" data-title="Q2 — The paradoxical rally"></div>
+
+**3. Your own edge.** Your PO3 strategy profits from continuation after certain structural breaks. In the language of this lecture: what inefficiency must exist for that edge to persist, and who is plausibly *paying* for it?
+
+<div class="cc-answer" data-id="markets-m1-d3" data-group="markets-m1-discussion" data-title="Q3 — Your own edge"></div>
+
+<div class="cc-submit" data-group="markets-m1-discussion" data-title="Markets M1 — Discussion answers"></div>
+
+## Module Check
+
+Instant-graded. Retake as often as you like; your best score is tracked, and you can log it to the permanent record.
+
+<script type="application/json" class="cc-quiz" data-id="markets-m1-quiz" data-title="Markets M1 — Module Check">
+{
+  "questions": [
+    {
+      "q": "A stock's 'market cap' is best described as:",
+      "options": [
+        "The total amount investors have paid for the company's shares",
+        "The last marginal trade price projected across every share outstanding",
+        "The liquidation value of the company's assets",
+        "The maximum amount holders could realize by selling"
+      ],
+      "answer": 1,
+      "why": "Market cap = last price × shares outstanding. One marginal handshake prices the whole stack; realizing it depends entirely on liquidity."
+    },
+    {
+      "q": "The Fed cuts rates exactly as the market expected. Prices barely move. Why?",
+      "options": [
+        "Rate cuts don't affect asset prices",
+        "The market is inefficient and slow to react",
+        "The cut was already embedded in prices — only the surprise component moves markets",
+        "Traders were waiting for the press conference"
+      ],
+      "answer": 2,
+      "why": "Prices are discounted expectations. An outcome that matches expectation contains zero new information — the tradable object is the gap between outcome and expectation."
+    },
+    {
+      "q": "Rates rise sharply. Which asset class falls hardest, and why?",
+      "options": [
+        "Short-duration value stocks — they're most economically sensitive",
+        "Long-duration growth assets — their value is mostly distant future cash flows, which discount harder",
+        "All assets fall equally — the discount rate applies to everything the same way",
+        "Commodities — they pay no yield"
+      ],
+      "answer": 1,
+      "why": "The discount rate is gravity, and it compounds with time: the further out the cash flows, the more a rate change reshapes their present value."
+    },
+    {
+      "q": "An index fund must buy a stock being added to the S&P 500, regardless of price. In edge terms, this is:",
+      "options": [
+        "A behavioral bias",
+        "Evidence markets are efficient",
+        "A structural constraint — forced flow that someone else can be paid to accommodate",
+        "Insider trading"
+      ],
+      "answer": 2,
+      "why": "Participants who must trade regardless of price are the market's most reliable source of edge — their constraint pays whoever takes the other side."
+    },
+    {
+      "q": "Price moves hard on no visible news. The most useful first hypothesis is:",
+      "options": [
+        "The move is random noise and should be ignored",
+        "Someone knows something or someone must trade — the move itself is information",
+        "The market is wrong and will revert",
+        "A news story exists and simply hasn't been written yet"
+      ],
+      "answer": 1,
+      "why": "Prices aggregate dispersed information (Hayek). The press narrative gets reverse-engineered after the move; the move itself is often the primary signal."
+    }
+  ]
+}
+</script>
 
 ## Application
 
-_Assigned after discussion._
+_Assigned after discussion is graded._
 
 ## Review
 
