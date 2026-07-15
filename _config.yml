@@ -1,0 +1,18 @@
+title: The Curriculum
+description: Condensed degree-level courses, taught interactively.
+remote_theme: just-the-docs/just-the-docs
+plugins:
+  - jekyll-remote-theme
+
+search_enabled: true
+heading_anchors: true
+color_scheme: dark
+
+aux_links:
+  GitHub: https://github.com/dantusjosh-png/curriculum
+
+# Footer
+footer_content: "Built with Just the Docs · Taught by Claude"
+
+# Collapsible nav for course modules
+nav_sort: case_insensitive
