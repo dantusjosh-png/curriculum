@@ -7,7 +7,7 @@ permalink: /courses/markets/
 
 # How Markets and Economies Actually Work
 
-**Status:** Not started · **Est. length:** 8 modules ≈ 16 sessions
+**Status:** In progress · **Started:** 2026-07-15 · **Est. length:** 8 modules ≈ 16 sessions
 
 You already trade mechanics. This course is about *why prices move*: the macro machine (money, credit, rates, the Fed), the market's plumbing (order books, liquidity, who is on the other side of your trades and why), and the humans in the machine (behavioral finance). The goal is a systems-level model of markets rigorous enough to trade on and to report on credibly.
 
@@ -15,7 +15,7 @@ You already trade mechanics. This course is about *why prices move*: the macro m
 
 | # | Module | Core question | Status |
 |:--|:-------|:--------------|:-------|
-| 1 | The Price System | What is a price, and what makes it move? Expectations, discounting, and information | Not started |
+| 1 | [The Price System](module-01) | What is a price, and what makes it move? Expectations, discounting, and information | **In progress** |
 | 2 | Money, Credit & Banks | Where money actually comes from; credit cycles as the economy's heartbeat | Not started |
 | 3 | Interest Rates, Inflation & the Fed | What the Fed actually does, how policy transmits to asset prices | Not started |
 | 4 | Macro Regimes & the Business Cycle | Growth/inflation regimes, fiscal policy, debt — reading the environment you're trading in | Not started |
