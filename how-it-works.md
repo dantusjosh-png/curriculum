@@ -21,10 +21,11 @@ Each course here is a condensed degree-level program delivered in an interactive
 Modules ordered from basics to advanced, modeled on a degree curriculum.
 
 ### 2. Each module
-- **Lecture** — concise but rich: theory, context, examples.
-- **Discussion** — conceptual and applied comprehension questions.
+- **Lecture (framing)** — the professor's briefing: the concepts, what to watch for, and how it connects to your work.
+- **Watch & Read** — curated free videos and articles (~30 min per session) that carry the depth: the best explainer on earth for each concept, in the right order. Each resource has an understanding check — an instant-graded quiz, plus a written question when the resource carries a core concept.
+- **Discussion** — Socratic questions, answered on the page and submitted for grading.
 - **Application** — one short exercise, case study, or thought experiment.
-- **Feedback loop** — readiness check; struggling triggers a reteach with fresh examples.
+- **Feedback loop** — readiness check; struggling triggers a reteach with fresh examples and resources.
 
 ### 3. Section reviews
 Mini-quizzes, summaries, and synthesis prompts between sections.

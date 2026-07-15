@@ -58,6 +58,117 @@ In the short run, price moves because of *who has to transact now* — flows and
 4. Markets are efficiently inefficient: edge must be paid for by risk transfer, structural constraint, or persistent bias.
 5. Short-run price is a flow phenomenon; fundamentals are the slow variable.
 
+## Watch & Read
+
+The lecture above is the frame; these carry the depth. Do them in order — each has an understanding check. (If a link dies, flag it in your submission.)
+
+### Session A — Prices as information (~30 min)
+
+**1. Watch: [A Price Is a Signal Wrapped Up in an Incentive](https://www.youtube.com/watch?v=aBYzvPbIFNw)** — Marginal Revolution University, ~4 min. The primer: how one number carries both information and motivation. Watch for the rose-market example.
+
+**2. Read: [The Use of Knowledge in Society](https://www.econlib.org/library/Essays/hykKnw.html)** — F.A. Hayek, 1945, ~25 min. The founding document of everything in Lecture §2 — one of the most influential economics essays ever written. Watch for: why Hayek says the "man on the spot" can't be replaced by a central planner, and what prices *economize on*.
+
+<script type="application/json" class="cc-quiz" data-id="markets-m1-ra-quiz" data-title="Session A Check — Hayek & the price signal">
+{
+  "questions": [
+    {
+      "q": "According to Hayek, the fundamental economic problem is:",
+      "options": [
+        "Allocating scarce resources among known, given ends",
+        "Utilizing knowledge that exists only dispersed among millions of people, never in one mind",
+        "Preventing monopolies from distorting prices",
+        "Ensuring resources are distributed fairly"
+      ],
+      "answer": 1,
+      "why": "Hayek's core move: the data a planner would need 'never exists in concentrated or integrated form.' The problem isn't calculation — it's that the knowledge isn't collectible."
+    },
+    {
+      "q": "Hayek compares the price system to a system of telecommunications because:",
+      "options": [
+        "Prices travel quickly around the world",
+        "It transmits only the essential signal — people can act correctly without knowing why the price changed",
+        "It requires modern technology to function",
+        "Central banks broadcast prices to all participants"
+      ],
+      "answer": 1,
+      "why": "The tin example: users of tin need to know only that it got scarcer (price up), not whether the cause was a mine collapse or new demand. Prices economize on knowledge."
+    },
+    {
+      "q": "The MRU video's title phrase — a signal 'wrapped up in an incentive' — adds what to Hayek's point?",
+      "options": [
+        "Prices don't just convey scarcity information — they simultaneously motivate people to act on it",
+        "Prices are often manipulated by incentivized parties",
+        "Incentives distort the information in prices",
+        "Signals only work when governments set incentives"
+      ],
+      "answer": 0,
+      "why": "Information alone coordinates nothing. A rising price both tells you the thing got scarcer and pays you to conserve it or produce more — message and motive in one number."
+    },
+    {
+      "q": "Hayek's 'man on the spot' — translated to markets — is closest to:",
+      "options": [
+        "The Fed chair, who sees the whole economy",
+        "The financial journalist reconstructing why price moved",
+        "The participant with local, particular knowledge (a floor trader seeing flow, an insider seeing orders) whose trades push that knowledge into price",
+        "The index fund holding everything passively"
+      ],
+      "answer": 2,
+      "why": "Dispersed local knowledge enters prices through the trades of those who hold it — which is exactly why 'the move is the news' and why unexplained moves deserve respect."
+    }
+  ]
+}
+</script>
+
+**Written check** — this one gets graded:
+
+<div class="cc-answer" data-id="markets-m1-hayek" data-title="Session A — Hayek applied to your trading"></div>
+
+> Hayek argued central planners must fail because decisive knowledge lives locally and can't be collected. Translate this to your world: when NQ moves hard and no analyst or headline explains it, what kinds of "local knowledge" might that move contain — and what does Hayek imply about the risk of fading a move you can't explain?
+
+### Session B — What "priced in" actually means (~20 min)
+
+**3. Watch: [Patrick Boyle on The Efficient Market Hypothesis](https://www.youtube.com/watch?v=blCT7KYcQ9g)** — Patrick Boyle, ex-hedge-fund manager. The EMH from someone who traded against it for a living. Watch for: the different *forms* of the hypothesis, and the paradox of why markets can never be perfectly efficient.
+
+<script type="application/json" class="cc-quiz" data-id="markets-m1-rb-quiz" data-title="Session B Check — Efficient markets">
+{
+  "questions": [
+    {
+      "q": "The semi-strong form of the EMH claims prices reflect:",
+      "options": [
+        "Only past price history",
+        "All publicly available information",
+        "All information including private/inside information",
+        "Only fundamental valuation models"
+      ],
+      "answer": 1,
+      "why": "Weak form: past prices. Semi-strong: all public info (earnings, news, filings). Strong: even inside info. The semi-strong form is the practically relevant one — it's why headlines are un-tradable by the time you read them."
+    },
+    {
+      "q": "The Grossman-Stiglitz paradox says markets can't be perfectly efficient because:",
+      "options": [
+        "Regulators prevent full information disclosure",
+        "If prices already reflected everything, no one would be paid to gather information — so no one would, and prices would stop reflecting everything",
+        "Human emotions always create bubbles",
+        "Transaction costs make trading impossible"
+      ],
+      "answer": 1,
+      "why": "Efficiency is self-undermining: someone must be compensated for making prices right. Markets stay just inefficient enough to pay the people who correct them — 'efficiently inefficient.'"
+    },
+    {
+      "q": "You backtest a signal on public data and it shows persistent profit. The EMH-literate first question is:",
+      "options": [
+        "How fast can I deploy it with maximum size?",
+        "What risk am I being paid to bear, or whose constraint am I exploiting — and why hasn't it been arbitraged away?",
+        "Which indicator settings maximize the backtest?",
+        "Is the market weak-form or strong-form efficient?"
+      ],
+      "answer": 1,
+      "why": "Lecture §4: every persistent edge needs a payer — risk transfer, structural constraint, or durable bias. No identifiable payer is the signature of overfitting."
+    }
+  ]
+}
+</script>
+
 ## Discussion
 
 Answer each question in its box — drafts autosave in this browser. When all three are done, hit **Submit all answers** at the bottom: it files your answers for grading, and the feedback + verdict get logged back onto this page.
