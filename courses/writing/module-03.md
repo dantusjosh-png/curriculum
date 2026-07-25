@@ -1,30 +1,43 @@
 ---
-title: "3. Argument Construction"
-parent: Writing & Reporting
+title: "3. Clarity & Clutter"
+parent: The Writer's Path
 nav_order: 3
 ---
 
-# Module 3: Argument Construction
+# Module 3: Clarity & Clutter
 
-**Status:** Not started
+**Stage I — The Sentence** · **Status:** Not started
 
-**Core question:** Claims, evidence, steelmanning — writing that persuades honestly.
+**Core question:** Why does writing that is technically correct still fail to be understood?
+
+**What you walk away with:** The ability to cut everything not doing work, and to escape the curse of your own expertise.
 
 ---
 
-*This page fills in as the module runs: lecture notes, discussion highlights, the application exercise and submitted work, and the review verdict.*
+## Lecture (framing)
 
-## Lecture
+_Delivered when you reach this module — the professor's briefing on what these sources are doing and what to watch for._
 
-_Not yet delivered._
+## Watch & Read
+
+The anchor sources for this module. Understanding checks and written questions are added when the module opens.
+
+**Watch: [The Sense of Style — Steven Pinker, Talks at Google](https://www.youtube.com/watch?v=3ZKTmsgqi0U)**
+
+> ~55 min. Harvard psycholinguist on why smart people write badly. The key concept: the **curse of knowledge** — you cannot un-know what you know, so you systematically overestimate what your reader knows. This is the single best explanation of why expert writing fails, and it will explain a lot about your own market writing.
+
+**Read: [Fifty Writing Tools: Quick List — Roy Peter Clark, Poynter](https://www.poynter.org/reporting-editing/2006/fifty-writing-tools-quick-list/)**
+
+> ~10 min. Clark spent thirty years as the Poynter Institute's writing coach. This is his entire toolkit compressed to a list — a reference you will return to for years.
+
 
 ## Discussion
 
-_Not yet held._
+_Socratic questions, posed when the module opens._
 
 ## Application
 
-_Assigned after discussion._
+A 400-word explainer of one market concept, written for a smart reader who knows nothing about markets. Graded on whether a non-trader can follow it.
 
 ## Review
 

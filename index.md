@@ -17,12 +17,12 @@ Condensed degree-level courses. Each course compresses the core of a full progra
 | Course | Modules | Status | Progress |
 |:-------|:--------|:-------|:---------|
 | [Markets & Economies](courses/markets/) | 8 | **In progress** — Module 1 | 0/8 |
-| [Writing & Reporting](courses/writing/) | 8 | Not started | 0/8 |
+| [The Writer's Path](courses/writing/) | 15 | **In progress** — Module 1 | 0/15 |
 | [Information Ecosystems](courses/info-ecosystems/) | 7 | Not started | 0/7 |
 | [Computing & AI](courses/computing-ai/) | 8 | Not started | 0/8 |
 | [Persuasion & Psychology](courses/persuasion/) | 7 | Not started | 0/7 |
 
-**Pacing:** ~1 hour/day. Each module ≈ 2 sessions (lecture + discussion, then application + review). One knowledge course at a time, with Writing & Reporting running continuously as a practicum alongside.
+**Pacing:** ~1 hour/day. Each module ≈ 2 sessions (lecture + discussion, then application + review). One knowledge course at a time, with **The Writer's Path** running continuously as a practicum alongside — it's the only course with a stated professional end goal, and it takes reps, not weeks.
 
 ## Your activity
 
