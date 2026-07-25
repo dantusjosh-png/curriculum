@@ -26,7 +26,7 @@ The anchor sources for this module. Understanding checks and written questions a
 
 > ~40 min. Pick three from the top twenty. Read each text first, then listen. Mark every place the written version under-predicts the spoken effect — that gap is everything this module is about.
 
-**Study: [Churchill, 'We Shall Fight on the Beaches' — text and audio](https://www.americanrhetoric.com/speeches/winstonchurchill/winstonchurchillbeaches.htm)**
+**Study: [Churchill, 'We Shall Fight on the Beaches' — text and audio](https://www.americanrhetoric.com/speeches/winstonchurchillweshallfightonthebeaches.htm)**
 
 > ~10 min. Note the Anglo-Saxon monosyllables in the famous passage — Zinsser's point from Module 1, deployed under maximum pressure.
 

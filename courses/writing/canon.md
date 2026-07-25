@@ -24,7 +24,7 @@ Steal: the iceberg — what you leave out strengthens what remains; declarative 
 Steal: the sentence that withholds judgment while arranging facts so the judgment is inevitable; her use of repetition and the long catalogue. Read: [The Art of Nonfiction No. 1](https://www.theparisreview.org/interviews/5601/the-art-of-nonfiction-no-1-joan-didion), and [Why I Write](https://www.themarginalian.org/2012/10/16/why-i-write-joan-didion/).
 
 **James Baldwin** — *rage held at precision temperature.*
-Steal: the long sentence that accumulates moral weight without losing control; direct address to the reader. Read: [The Art of Fiction No. 78](https://www.theparisreview.org/interviews/2994/the-art-of-fiction-no-78-james-baldwin), [A Letter to My Nephew](https://progressive.org/magazine/letter-my-nephew/).
+Steal: the long sentence that accumulates moral weight without losing control; direct address to the reader. Read: [The Art of Fiction No. 78](https://www.theparisreview.org/interviews/2994/the-art-of-fiction-no-78-james-baldwin), [My Dungeon Shook: A Letter to My Nephew](https://www.historyisaweapon.com/defcon1/baldwindungeonshook.html).
 
 **Kurt Vonnegut** — *plainness as a moral stance; comic timing.*
 Steal: the very short paragraph as a punch; refusing to sound smarter than your reader. Read: [How to Write With Style](https://www.openculture.com/2014/11/kurt-vonnegut-explains-how-to-write-with-style.html), and watch [The Shapes of Stories](https://www.youtube.com/watch?v=oP3c1h8v2ZQ).
@@ -58,7 +58,7 @@ Steal: the outsider-protagonist as a device for explaining a system; complex mec
 
 **Martin Luther King Jr.** — [I Have a Dream](https://www.americanrhetoric.com/speeches/mlkihaveadream.htm): anaphora, and the improvised passage that only works because the devices were already in his body.
 
-**Winston Churchill** — [We Shall Fight on the Beaches](https://www.americanrhetoric.com/speeches/winstonchurchill/winstonchurchillbeaches.htm): Anglo-Saxon monosyllables under maximum pressure.
+**Winston Churchill** — [We Shall Fight on the Beaches](https://www.americanrhetoric.com/speeches/winstonchurchillweshallfightonthebeaches.htm): Anglo-Saxon monosyllables under maximum pressure.
 
 **Abraham Lincoln** — the Gettysburg Address: 272 words; parallel structure; the tricolon that closes it.
 

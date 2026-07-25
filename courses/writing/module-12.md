@@ -30,7 +30,7 @@ The anchor sources for this module. Understanding checks and written questions a
 
 > ~20 min. Working journalists deconstruct pieces they envy.
 
-**Read: [John McPhee, The Art of Nonfiction No. 3 — The Paris Review](https://www.theparisreview.org/interviews/6774/the-art-of-nonfiction-no-3-john-mcphee)**
+**Read: [John McPhee, The Art of Nonfiction No. 3 — The Paris Review](https://www.theparisreview.org/interviews/5997/the-art-of-nonfiction-no-3-john-mcphee)**
 
 > ~40 min. McPhee on the reporting behind the structure: notebooks, access, and how long it actually takes.
 

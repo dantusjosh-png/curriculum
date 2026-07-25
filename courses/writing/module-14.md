@@ -30,7 +30,7 @@ The anchor sources for this module. Understanding checks and written questions a
 
 > ~20 min. Privacy, right of publicity, and the rest of the exposure surface.
 
-**Read: [SPJ Code of Ethics](https://www.spj.org/ethicscode.asp)**
+**Read: [SPJ Code of Ethics](https://www.spj.org/spj-code-of-ethics/)**
 
 > ~10 min. Short, and the standard American newsrooms are held to.
 

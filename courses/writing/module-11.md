@@ -26,7 +26,7 @@ The anchor sources for this module. Understanding checks and written questions a
 
 > ~20 min. The model for the essay that argues by narrating. Orwell never states his thesis about empire as a proposition — he makes you feel it, then names it once.
 
-**Read: [James Baldwin, 'A Letter to My Nephew' — The Progressive](https://progressive.org/magazine/letter-my-nephew/)**
+**Read: [James Baldwin, 'My Dungeon Shook: A Letter to My Nephew'](https://www.historyisaweapon.com/defcon1/baldwindungeonshook.html)**
 
 > ~15 min. Published 1962, free. Argument as address: how the form of a letter permits claims an essay couldn't carry.
 
