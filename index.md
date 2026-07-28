@@ -17,7 +17,7 @@ Condensed degree-level courses. Each course compresses the core of a full progra
 | Course | Modules | Status | Progress |
 |:-------|:--------|:-------|:---------|
 | [Markets & Economies](courses/markets/) | 8 | **In progress** — Module 1 | 0/8 |
-| [The Writer's Path](courses/writing/) | 15 | **In progress** — Module 1 | 0/15 |
+| [The Writer's Path](courses/writing/) | 15 | **In progress** — Module 2 | **1/15** |
 | [Information Ecosystems](courses/info-ecosystems/) | 7 | Not started | 0/7 |
 | [Computing & AI](courses/computing-ai/) | 8 | Not started | 0/8 |
 | [Persuasion & Psychology](courses/persuasion/) | 7 | Not started | 0/7 |

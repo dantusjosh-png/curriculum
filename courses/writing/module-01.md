@@ -6,7 +6,7 @@ nav_order: 1
 
 # Module 1: The Sentence
 
-**Stage I — The Sentence** · **Status:** In progress · **Started:** 2026-07-25
+**Stage I — The Sentence** · **Status: ✅ Complete** · 2026-07-25 → 2026-07-28 · **Verdict: PASS**
 
 **Core question:** What makes one sentence land and another die on the page?
 
@@ -232,4 +232,29 @@ Answer all three, then submit them together.
 
 ## Review
 
-_Pending — complete the quizzes, written checks, discussion, and application._
+**Completed 2026-07-28 · Verdict: PASS · Module 1 closed.**
+
+### Scores
+
+| Item | Result |
+|:--|:--|
+| Session A Check — Klinkenborg & Provost | **5/5** |
+| Session B Check — Zinsser's principles | **6/6** |
+| Session A written — Diagnose your own sentences | Pass ([feedback](https://github.com/dantusjosh-png/curriculum/issues/1)) |
+| Session B written — The Latinate audit | Pass ([feedback](https://github.com/dantusjosh-png/curriculum/issues/4)) |
+| Discussion (3 questions) | Pass ([feedback](https://github.com/dantusjosh-png/curriculum/issues/5)) |
+| Application — The Rewrite Drill | Pass ([feedback](https://github.com/dantusjosh-png/curriculum/issues/6)) |
+
+### What happened
+
+Perfect comprehension on both checks — the readings landed. The written work showed real movement: in the Rewrite Drill, a 17-word clotted sentence ("I started to notice that there was a pattern in the people with whom I had positive interactions") became "I noticed a pattern," and a two-word sentence — *No shit.* — was dropped in after a run of longer ones. That last move is Provost's rhythm lesson executed by instinct rather than by rule, and it's the strongest evidence in the submission that the module took.
+
+Best analytic moment: in discussion Q1, catching the course's own prose in the act — noting that "Are these in conflict?" builds on its predecessor and asking whether that violates Klinkenborg. Correct observation, and the resolution was taught in response: reference is fine, *dependence* is the flaw. A sentence may point backward; it may not collapse without its neighbor.
+
+Self-diagnosis in Session A stopped one step short. The third sentence of the sampled paragraph — "It does this through building an algorithm that is personalized for each person" — says the algorithm builds an algorithm. The error was invisible at twenty words and unmissable at six, which is Klinkenborg's thesis demonstrated on live material.
+
+### Carried forward into Module 2
+
+1. **Comma splices** — two instances across two submissions. Read every comma: if both sides are complete sentences, it wants a period.
+2. **Cut abstractions, protect specifics.** In the rewrite, "40s-50s" was deleted while *nice*, *older*, *energetic*, and *connected* survived — the trade ran backwards. Numbers and physical details are the last things to cut, not the first.
+3. **Interrogate your own drafts harder.** The reflection named what the constraints gained but not what they cost. The real answer was available: the rewrite dropped the mechanism (younger people weren't homeowners), which was the evidence for its own conclusion.

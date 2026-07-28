@@ -6,7 +6,7 @@ nav_order: 2
 
 # Module 2: Diction & the Working Vocabulary
 
-**Stage I — The Sentence** · **Status:** Not started
+**Stage I — The Sentence** · **Status: Open** — begins after [Module 1](module-01) (PASS, 2026-07-28)
 
 **Core question:** How do you find the exact word — and how do you come to own enough words that the exact one is available when you need it?
 

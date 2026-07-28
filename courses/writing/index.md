@@ -11,7 +11,7 @@ permalink: /courses/writing/
 **Goal: become a professional writer.**
 {: .fs-6 .fw-300 }
 
-**Status:** In progress · **Started:** 2026-07-25 · **15 modules, 4 stages, 4 milestones**
+**Status:** In progress — **1/15 complete** · **Started:** 2026-07-25 · **15 modules, 4 stages, 4 milestones**
 
 ---
 
@@ -48,8 +48,8 @@ Each stage is a rung. You can't skip one, because each stage's milestone is the 
 
 | # | Module | The skill you walk away with | Status |
 |:--|:-------|:------------------------------|:-------|
-| 1 | [The Sentence](module-01) | Building sentences that carry weight; controlling rhythm | **In progress** |
-| 2 | [Diction & the Working Vocabulary](module-02) | Choosing the exact word; a system for owning new ones | Not started |
+| 1 | [The Sentence](module-01) | Building sentences that carry weight; controlling rhythm | ✅ **Complete** — PASS |
+| 2 | [Diction & the Working Vocabulary](module-02) | Choosing the exact word; a system for owning new ones | **Open — start here** |
 | 3 | [Clarity & Clutter](module-03) | Cutting everything that isn't doing work | Not started |
 | 4 | [Revision](module-04) | Turning a bad first draft into a good final one | Not started |
 
