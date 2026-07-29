@@ -123,7 +123,7 @@ Today's central text is Orwell, and it is the most consequential essay ever writ
 
 ### Session B — Building the working vocabulary (~25 min)
 
-**2. Tool session: [etymonline.com](https://www.etymonline.com/)** — the Online Etymology Dictionary, free, maintained since 2001. Not a reading — a workout. Look up ten words you use in your own writing constantly (start with: *market*, *credit*, *risk*, *invest*, *broker*, *capital*, *profit*, *crisis*, *panic*, *bubble*). Several will surprise you: *risk* has a contested nautical origin, *credit* is Latin for "he/she believes," *capital* comes from the word for head (as in head of cattle). Note which histories change how you see the concept.
+**2. Tool session: [etymonline.com](https://www.etymonline.com/)** — the Online Etymology Dictionary, free, maintained since 2001. Not a reading — a workout. Look up ten words you use in your own writing constantly. Pick your own list from whatever you actually write about — several will surprise you once you trace them back far enough. Note which histories change how you see the concept.
 
 **3. Read: [The Marginalian on Joan Didion's "Why I Write"](https://www.themarginalian.org/2012/10/16/why-i-write-joan-didion/)** — ~8 min, quoting Didion's 1976 lecture extensively. We'll return to this essay in Module 8 for voice; today read it only for what she says about **grammar and word choice as instruments of meaning** — her claim that the arrangement of words carries the picture in your mind, and that shifting the structure shifts the meaning as surely as changing the words.
 
@@ -213,7 +213,7 @@ Your first entries go in today, from Orwell and Didion. Ten entries minimum befo
 
 <div class="cc-answer" data-id="writing-m2-d2" data-group="writing-m2-discussion" data-title="Q2 — Against Orwell"></div>
 
-**3. Your own diction.** Every writer has a crutch register — the vocabulary they retreat to under pressure. Trading writers reach for jargon; salespeople reach for enthusiasm; anxious writers reach for Latin. What's yours, and what does it let you avoid saying?
+**3. Your own diction.** Every writer has a crutch register — the vocabulary they retreat to under pressure. Technical writers reach for jargon; salespeople reach for enthusiasm; anxious writers reach for Latin. What's yours, and what does it let you avoid saying?
 
 <div class="cc-answer" data-id="writing-m2-d3" data-group="writing-m2-discussion" data-title="Q3 — Your crutch register"></div>
 
@@ -225,8 +225,8 @@ Your first entries go in today, from Orwell and Didion. Ten entries minimum befo
 
 **The Precision Exercise.**
 
-1. Write **one paragraph (150 words max)** describing a single real market moment you witnessed — a specific day, a specific move, what it felt like on your screen. Use no abstractions and no jargon whatsoever. Every noun concrete, every verb active. Difficulty: describe volatility without the word *volatility*.
-2. Now write **the same paragraph in institutional English** — the version a bank's research desk would publish. Latinate, passive, hedged.
+1. Write **one paragraph (150 words max)** describing a single real moment you witnessed — a specific day, a specific event, what it actually felt like. Use no abstractions and no jargon whatsoever. Every noun concrete, every verb active. Difficulty: describe the feeling without naming the feeling.
+2. Now write **the same paragraph in institutional English** — the version a corporate communications desk would publish. Latinate, passive, hedged.
 3. In three sentences: what does version two *permit its author to avoid*, and when might a professional legitimately want that?
 4. Submit all three parts, plus your first ten Lexicon entries.
 

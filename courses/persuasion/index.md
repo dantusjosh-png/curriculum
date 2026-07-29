@@ -16,7 +16,7 @@ Your sales background, your content, and your journalism all run on this. The co
 | # | Module | Core question | Status |
 |:--|:-------|:--------------|:-------|
 | 1 | How People Actually Decide | Dual-process thinking, heuristics, why "irrational" is often adaptive | Not started |
-| 2 | The Load-Bearing Biases | The dozen biases that explain most real-world behavior (incl. your trading) | Not started |
+| 2 | The Load-Bearing Biases | The dozen biases that explain most real-world behavior | Not started |
 | 3 | Influence Mechanics | Reciprocity, social proof, scarcity, authority — why the classics work | Not started |
 | 4 | Framing & Anchoring | How presentation changes decisions without changing facts | Not started |
 | 5 | Narrative as Technology | Why stories persuade when arguments don't | Not started |

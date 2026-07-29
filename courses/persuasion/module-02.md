@@ -8,7 +8,7 @@ nav_order: 2
 
 **Status:** Not started
 
-**Core question:** The dozen biases that explain most real-world behavior (including your trading).
+**Core question:** The dozen biases that explain most real-world behavior.
 
 ---
 

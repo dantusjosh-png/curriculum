@@ -28,7 +28,7 @@ For each entry, note three things:
 - **The near-synonym it is *not*.** *Reticent* is not *reluctant*. *Fulsome* is not *full*. *Enormity* is not *enormousness*. Writing the distinction down is what installs it.
 
 **3. Deploy — three uses in two weeks.**
-A captured word is not yours until you have used it in your own writing three times. Force it: work each new word into a Substack post, a trading note, a course exercise. Some will feel wrong in your mouth — that's information too. Discard those honestly rather than wearing them like a borrowed jacket.
+A captured word is not yours until you have used it in your own writing three times. Force it: work each new word into a Substack post, an email, a course exercise. Some will feel wrong in your mouth — that's information too. Discard those honestly rather than wearing them like a borrowed jacket.
 
 ## Standing rules
 

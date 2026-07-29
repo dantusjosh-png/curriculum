@@ -24,7 +24,7 @@ The anchor sources for this module. Understanding checks and written questions a
 
 **Watch: [The Sense of Style — Steven Pinker, Talks at Google](https://www.youtube.com/watch?v=3ZKTmsgqi0U)**
 
-> ~55 min. Harvard psycholinguist on why smart people write badly. The key concept: the **curse of knowledge** — you cannot un-know what you know, so you systematically overestimate what your reader knows. This is the single best explanation of why expert writing fails, and it will explain a lot about your own market writing.
+> ~55 min. Harvard psycholinguist on why smart people write badly. The key concept: the **curse of knowledge** — you cannot un-know what you know, so you systematically overestimate what your reader knows. This is the single best explanation of why expert writing fails, and it will explain a lot about your own writing.
 
 **Read: [Fifty Writing Tools: Quick List — Roy Peter Clark, Poynter](https://www.poynter.org/reporting-editing/2006/fifty-writing-tools-quick-list/)**
 
@@ -37,7 +37,7 @@ _Socratic questions, posed when the module opens._
 
 ## Application
 
-A 400-word explainer of one market concept, written for a smart reader who knows nothing about markets. Graded on whether a non-trader can follow it.
+A 400-word explainer of one concept from journalism, travel, or anything else you know well, written for a smart reader who knows nothing about it. Graded on whether a total outsider can follow it.
 
 ## Review
 

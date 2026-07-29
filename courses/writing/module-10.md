@@ -41,7 +41,7 @@ _Socratic questions, posed when the module opens._
 
 ## Application
 
-Report and write one 500-word scene from your own life or beat — a trading floor, a meeting, a room you were in — built only from observed detail. No interior monologue, no summary.
+Report and write one 500-word scene from your own life — a place you traveled to, an interview, a room you were in — built only from observed detail. No interior monologue, no summary.
 
 ## Review
 

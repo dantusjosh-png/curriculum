@@ -41,7 +41,7 @@ _Socratic questions, posed when the module opens._
 
 ## Application
 
-Write one paragraph of your own market commentary using three named figures deliberately. Annotate which is which, and defend why each earned its place.
+Write one paragraph of your own commentary, on any subject, using three named figures deliberately. Annotate which is which, and defend why each earned its place.
 
 ## Review
 

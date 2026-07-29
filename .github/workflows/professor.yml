@@ -66,8 +66,9 @@ jobs:
                - If PASS on discussion (not the final requirement), write the
                  application exercise assignment into "## Application": one
                  short, concrete exercise applying the module's concepts to the
-                 student's real work (they trade NQ futures, write, and build
-                 software), with an answer box widget:
+                 student's own writing and life (journalism and travel writing
+                 are their main beat — lean on that, but draw from whatever
+                 they're actually working on), with an answer box widget:
                  <div class="cc-answer" data-id="<course>-m<N>-app" data-title="Application — <short name>"></div>
 
             4. If it is labeled 'quiz-log': record the score with date under

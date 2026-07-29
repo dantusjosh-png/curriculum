@@ -110,7 +110,7 @@ Two sessions, roughly half an hour each. Each has a check.
 
 <div class="cc-answer" data-id="writing-m1-w1" data-title="Session A — Diagnose your own sentences"></div>
 
-> Take a paragraph you wrote recently — a Substack post, a trading note, anything not written for this course. Paste it in. Then count the words in each sentence and list the counts in order (e.g. 14, 17, 15, 19). What does the pattern tell you? Now pull your third sentence out and read it alone: does it stand up, or was it leaning on its neighbors?
+> Take a paragraph you wrote recently — a Substack post, an email, anything not written for this course. Paste it in. Then count the words in each sentence and list the counts in order (e.g. 14, 17, 15, 19). What does the pattern tell you? Now pull your third sentence out and read it alone: does it stand up, or was it leaning on its neighbors?
 
 ### Session B — The war on Latin (~25 min)
 
@@ -205,7 +205,7 @@ Answer all three, then submit them together.
 
 <div class="cc-answer" data-id="writing-m1-d1" data-group="writing-m1-discussion" data-title="Q1 — Klinkenborg vs. Zinsser"></div>
 
-**2. Where clarity is dangerous.** Institutional prose is vague on purpose: a Fed statement written in Anglo-Saxon monosyllables would move markets violently. Vagueness is sometimes a professional *skill*. As a writer whose beat is markets, when — if ever — is it legitimate for you to be less than maximally clear? Where is the line between nuance and evasion?
+**2. Where clarity is dangerous.** Institutional prose is often vague on purpose: a central bank statement, a legal disclosure, a corporate apology, all written to survive scrutiny rather than inform. Vagueness is sometimes a professional *skill*. In your own writing, when — if ever — is it legitimate to be less than maximally clear? Where is the line between nuance and evasion?
 
 <div class="cc-answer" data-id="writing-m1-d2" data-group="writing-m1-discussion" data-title="Q2 — When vagueness is legitimate"></div>
 
