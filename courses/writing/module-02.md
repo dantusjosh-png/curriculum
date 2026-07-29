@@ -232,6 +232,8 @@ Your first entries go in today, from Orwell and Didion. Ten entries minimum befo
 
 <div class="cc-answer" data-id="writing-m2-app" data-title="Application — The Precision Exercise (both versions + reflection + 10 Lexicon entries)"></div>
 
+**2026-07-29 — RETEACH.** Version 1 (a Monte Carlo table, thirty people, six languages) has one genuinely strong sentence — the quiet-loss/loud-win contrast — but "chaos" and "energy...bursting" name the feeling twice instead of building it. Version 2 doesn't do the module's actual work: it's version 1's casualness with the details stripped out, not institutional prose — no real Latinate diction, no hedging, plus a subject-verb slip and a typo. The reflection correctly spots that version 2 hides the losses but never answers the second half of the prompt: when a professional might legitimately want that. The ten Lexicon entries named in the submission title weren't attached. Full feedback: [issue #14](https://github.com/dantusjosh-png/curriculum/issues/14).
+
 ---
 
 ## Review
@@ -249,7 +251,7 @@ Your first entries go in today, from Orwell and Didion. Ten entries minimum befo
 | Discussion Q2 — against Orwell | Redo — answered consistency, not the steelman |
 | Discussion Q3 — crutch register | Needs examples |
 | Lexicon — batches 1–2 | **Incomplete — 2 of 10** ([batch 1](https://github.com/dantusjosh-png/curriculum/issues/11), [batch 2](https://github.com/dantusjosh-png/curriculum/issues/13)) |
-| Application — The Precision Exercise | **Not submitted** |
+| Application — The Precision Exercise | Redo — version 2 isn't institutional register; reflection half-answered ([feedback](https://github.com/dantusjosh-png/curriculum/issues/14)) |
 
 ### What happened
 
@@ -257,11 +259,11 @@ Comprehension is not the issue and has never been the issue: 11/11 across both c
 
 Discussion Q1 was the best work produced in this course so far. Asked whether a trader's euphemism differs in kind from a state's, the answer went looking in the right place — his own mouth — and found it: *"When I talk to friends about my trading, if I don't want them to think Im doing worse then I am, then I speak in pacification... It could mean 200$ or it could mean 2000$."* Orwell applied to the self rather than to politicians. The refinement taught in response: *drawdown* is a real technical term used evasively; *collateral damage* is a term invented for evasion. Both conceal; only one has a defensible existence.
 
-The module falls short on **production**, not understanding. Three deliverables are outstanding, and the largest — the Precision Exercise — was never attempted. That exercise is the module: describing a real market moment in wholly concrete language, then rendering the same content in institutional English, is where the reading becomes a skill.
+The module falls short on **production**, not understanding. Three deliverables are outstanding. The Precision Exercise has now been attempted, and it shows the gap precisely: the concrete version has one genuinely strong sentence, but the institutional version still reads like a quieter draft of the concrete one rather than a different register entirely. That exercise is the module — describing a real moment in wholly concrete language, then rendering the same content in institutional English, is where the reading becomes a skill.
 
 ### Outstanding — required to close Module 2
 
-1. **The Precision Exercise** (Application) — not submitted. 150 words concrete, the institutional version, the three-sentence reflection.
+1. **The Precision Exercise** (Application) — redo. Version 2 needs genuine Latinate/passive/hedged register (not just version 1 in a lower mood), and the reflection needs its second sentence: when a professional might legitimately want what version 2 hides ([feedback](https://github.com/dantusjosh-png/curriculum/issues/14)).
 2. **Lexicon** — 10 entries in full format, each with the sentence it appeared in. Two submitted across two batches; neither has a source sentence, register, or worked-out distinction, and batch two resubmitted batch one's entry unrevised ([latest feedback](https://github.com/dantusjosh-png/curriculum/issues/13)).
 3. **Discussion Q2 redo** + Q3 examples — steelman Orwell's critics rather than noting his inconsistency.
 
