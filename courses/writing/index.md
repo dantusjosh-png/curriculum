@@ -49,7 +49,7 @@ Each stage is a rung. You can't skip one, because each stage's milestone is the 
 | # | Module | The skill you walk away with | Status |
 |:--|:-------|:------------------------------|:-------|
 | 1 | [The Sentence](module-01) | Building sentences that carry weight; controlling rhythm | ✅ **Complete** — PASS |
-| 2 | [Diction & the Working Vocabulary](module-02) | Choosing the exact word; a system for owning new ones | **Open — start here** |
+| 2 | [Diction & the Working Vocabulary](module-02) | Choosing the exact word; a system for owning new ones | ⏳ **In progress** — 3 items outstanding |
 | 3 | [Clarity & Clutter](module-03) | Cutting everything that isn't doing work | Not started |
 | 4 | [Revision](module-04) | Turning a bad first draft into a good final one | Not started |
 

@@ -72,4 +72,8 @@ Pairs writers routinely confuse. Write the distinction for each in your own word
 
 ## Progress log
 
-_Graded batches and running entry count get recorded here as you submit them._
+| Date | Batch | Entries | Running total | Verdict |
+|:--|:--|:--|:--|:--|
+| 2026-07-29 | Module 2 batch 1 | 1 | 1 | **Incomplete** — 10 required; entry was a word already in active use, and omitted the source sentence ([feedback](https://github.com/dantusjosh-png/curriculum/issues/11)) |
+
+**Currently owed: 9 entries to close Module 2.**

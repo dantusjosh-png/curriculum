@@ -6,7 +6,7 @@ nav_order: 2
 
 # Module 2: Diction & the Working Vocabulary
 
-**Stage I — The Sentence** · **Status: Open** — begins after [Module 1](module-01) (PASS, 2026-07-28)
+**Stage I — The Sentence** · **Status: ⏳ In progress — 3 items outstanding** · Graded 2026-07-29 · **Verdict: INCOMPLETE**
 
 **Core question:** How do you find the exact word — and how do you come to own enough words that the exact one is available when you need it?
 
@@ -236,4 +236,37 @@ Your first entries go in today, from Orwell and Didion. Ten entries minimum befo
 
 ## Review
 
-_Pending._
+**Graded 2026-07-29 · Verdict: INCOMPLETE — module remains open.**
+
+### Scores
+
+| Item | Result |
+|:--|:--|
+| Session A Check — Orwell | **6/6** |
+| Session B Check — Diction & etymology | **5/5** |
+| Session A written — Orwell applied to financial language | Pass, part 3 outstanding ([feedback](https://github.com/dantusjosh-png/curriculum/issues/9)) |
+| Discussion Q1 — ethics of diction | **Pass — strongest work to date** ([feedback](https://github.com/dantusjosh-png/curriculum/issues/12)) |
+| Discussion Q2 — against Orwell | Redo — answered consistency, not the steelman |
+| Discussion Q3 — crutch register | Needs examples |
+| Lexicon — first batch | **Incomplete — 1 of 10** ([feedback](https://github.com/dantusjosh-png/curriculum/issues/11)) |
+| Application — The Precision Exercise | **Not submitted** |
+
+### What happened
+
+Comprehension is not the issue and has never been the issue: 11/11 across both checks, on top of 11/11 in Module 1. The readings are landing.
+
+Discussion Q1 was the best work produced in this course so far. Asked whether a trader's euphemism differs in kind from a state's, the answer went looking in the right place — his own mouth — and found it: *"When I talk to friends about my trading, if I don't want them to think Im doing worse then I am, then I speak in pacification... It could mean 200$ or it could mean 2000$."* Orwell applied to the self rather than to politicians. The refinement taught in response: *drawdown* is a real technical term used evasively; *collateral damage* is a term invented for evasion. Both conceal; only one has a defensible existence.
+
+The module falls short on **production**, not understanding. Three deliverables are outstanding, and the largest — the Precision Exercise — was never attempted. That exercise is the module: describing a real market moment in wholly concrete language, then rendering the same content in institutional English, is where the reading becomes a skill.
+
+### Outstanding — required to close Module 2
+
+1. **The Precision Exercise** (Application) — not submitted. 150 words concrete, the institutional version, the three-sentence reflection.
+2. **Lexicon** — 10 entries in full format, each with the sentence it appeared in. One submitted, and it was a word already in active use.
+3. **Discussion Q2 redo** + Q3 examples — steelman Orwell's critics rather than noting his inconsistency.
+
+### Carried forward
+
+- **Stop hedging at the hard part.** "I really don't know" (M1 Q1) and "I don't really know" (M2 Q2) both arrived exactly where the question got interesting, and both times the answer was one step away. Plant a flag; being wrong in a draft is free.
+- **Headwinds is weather** — the metaphor's real work is converting a management failure into an act of God. Ask of any dead metaphor: *taken literally, does it hold?*
+- **Deleveraging usually means forced selling.** The word makes a margin call sound like a strategy.
