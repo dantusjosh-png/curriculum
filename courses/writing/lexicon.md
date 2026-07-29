@@ -75,5 +75,6 @@ Pairs writers routinely confuse. Write the distinction for each in your own word
 | Date | Batch | Entries | Running total | Verdict |
 |:--|:--|:--|:--|:--|
 | 2026-07-29 | Module 2 batch 1 | 1 | 1 | **Incomplete** — 10 required; entry was a word already in active use, and omitted the source sentence ([feedback](https://github.com/dantusjosh-png/curriculum/issues/11)) |
+| 2026-07-29 | Module 2 batch 2 | 2 (1 new — *jargon* resubmitted unrevised, *hackneyed* new) | 2 | **Incomplete** — prior feedback not incorporated; still no source sentence or register on either entry ([feedback](https://github.com/dantusjosh-png/curriculum/issues/13)) |
 
-**Currently owed: 9 entries to close Module 2.**
+**Currently owed: 8 entries to close Module 2.**

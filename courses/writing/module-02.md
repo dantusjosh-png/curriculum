@@ -248,7 +248,7 @@ Your first entries go in today, from Orwell and Didion. Ten entries minimum befo
 | Discussion Q1 — ethics of diction | **Pass — strongest work to date** ([feedback](https://github.com/dantusjosh-png/curriculum/issues/12)) |
 | Discussion Q2 — against Orwell | Redo — answered consistency, not the steelman |
 | Discussion Q3 — crutch register | Needs examples |
-| Lexicon — first batch | **Incomplete — 1 of 10** ([feedback](https://github.com/dantusjosh-png/curriculum/issues/11)) |
+| Lexicon — batches 1–2 | **Incomplete — 2 of 10** ([batch 1](https://github.com/dantusjosh-png/curriculum/issues/11), [batch 2](https://github.com/dantusjosh-png/curriculum/issues/13)) |
 | Application — The Precision Exercise | **Not submitted** |
 
 ### What happened
@@ -262,7 +262,7 @@ The module falls short on **production**, not understanding. Three deliverables 
 ### Outstanding — required to close Module 2
 
 1. **The Precision Exercise** (Application) — not submitted. 150 words concrete, the institutional version, the three-sentence reflection.
-2. **Lexicon** — 10 entries in full format, each with the sentence it appeared in. One submitted, and it was a word already in active use.
+2. **Lexicon** — 10 entries in full format, each with the sentence it appeared in. Two submitted across two batches; neither has a source sentence, register, or worked-out distinction, and batch two resubmitted batch one's entry unrevised ([latest feedback](https://github.com/dantusjosh-png/curriculum/issues/13)).
 3. **Discussion Q2 redo** + Q3 examples — steelman Orwell's critics rather than noting his inconsistency.
 
 ### Carried forward
