@@ -219,6 +219,8 @@ Your first entries go in today, from Orwell and Didion. Ten entries minimum befo
 
 <div class="cc-submit" data-group="writing-m2-discussion" data-title="Writing M2 — Discussion answers"></div>
 
+**2026-07-30 — RETEACH.** Q1 is unchanged and still stands as a pass ([issue #12](https://github.com/dantusjosh-png/curriculum/issues/12)) — the trader's-own-euphemism observation remains the strongest work in the course to date. Q2 is a character-for-character resubmission of the same answer already sent back for redo — the steelman (rule two's circularity, Orwell breaking his own rules, vividness not preventing lies) still hasn't been attempted. Q3 improved — two concrete examples ("like I said," "yea I feel you") replaced the vague "common phrases" — but only two of the requested three, and neither is unpacked for what it lets the writer avoid saying. Full feedback: [issue #17](https://github.com/dantusjosh-png/curriculum/issues/17).
+
 ---
 
 ## Application
@@ -248,8 +250,8 @@ Your first entries go in today, from Orwell and Didion. Ten entries minimum befo
 | Session B Check — Diction & etymology | **5/5** |
 | Session A written — Orwell applied to financial language | Pass, part 3 outstanding ([feedback](https://github.com/dantusjosh-png/curriculum/issues/9)) |
 | Discussion Q1 — ethics of diction | **Pass — strongest work to date** ([feedback](https://github.com/dantusjosh-png/curriculum/issues/12)) |
-| Discussion Q2 — against Orwell | Redo — answered consistency, not the steelman |
-| Discussion Q3 — crutch register | Needs examples |
+| Discussion Q2 — against Orwell | Redo again — resubmitted unrevised, steelman still not attempted ([feedback](https://github.com/dantusjosh-png/curriculum/issues/17)) |
+| Discussion Q3 — crutch register | Close — two of three examples, neither unpacked ([feedback](https://github.com/dantusjosh-png/curriculum/issues/17)) |
 | Lexicon — batches 1–3 | **Incomplete — 10/10 by count, 0/10 in full format** ([batch 1](https://github.com/dantusjosh-png/curriculum/issues/11), [batch 2](https://github.com/dantusjosh-png/curriculum/issues/13), [batch 3](https://github.com/dantusjosh-png/curriculum/issues/15)) |
 | Application — The Precision Exercise | Redo again — version 2 still a vocabulary swap, not institutional register; reflection resubmitted unrevised ([feedback](https://github.com/dantusjosh-png/curriculum/issues/16)) |
 
@@ -265,10 +267,11 @@ The module falls short on **production**, not understanding. Three deliverables 
 
 1. **The Precision Exercise** (Application) — redo, second time. Version 2 needs actual passive voice, hedging, and nominalization — not fancier nouns on the same sentences — and the reflection needs the scenario it's still missing: when a professional might legitimately want what version 2 hides ([feedback](https://github.com/dantusjosh-png/curriculum/issues/16)).
 2. **Lexicon** — 10 entries in full format. Ten distinct words are now captured across three batches, hitting the count for the first time, but not one carries a source sentence or register, five of the near-synonyms drawn (idiom, superfluous, shirk, deplore, humbug) are wrong or too loose, and *jargon* has been resubmitted unrevised in all three batches ([latest feedback](https://github.com/dantusjosh-png/curriculum/issues/15)).
-3. **Discussion Q2 redo** + Q3 examples — steelman Orwell's critics rather than noting his inconsistency.
+3. **Discussion Q2 redo, second time** — the resubmission was unrevised; steelman rule two's circularity (or the vividness-doesn't-prevent-lying case), not Orwell's personal consistency ([feedback](https://github.com/dantusjosh-png/curriculum/issues/17)). **Q3** needs a third example, with each phrase unpacked for what it lets you avoid saying.
 
 ### Carried forward
 
-- **Stop hedging at the hard part.** "I really don't know" (M1 Q1) and "I don't really know" (M2 Q2) both arrived exactly where the question got interesting, and both times the answer was one step away. Plant a flag; being wrong in a draft is free.
+- **Resubmitting without revision is now a pattern, not an incident.** Three separate deliverables this module — the Application reflection ([issue #16](https://github.com/dantusjosh-png/curriculum/issues/16)), the *jargon* Lexicon entry across three batches, and Discussion Q2 ([issue #17](https://github.com/dantusjosh-png/curriculum/issues/17)) — came back character-for-character identical after explicit redo feedback. Read the feedback for the specific fix before resubmitting, not just the verdict.
+- **Stop hedging at the hard part.** "I really don't know" (M1 Q1) and "I don't really know" (M2 Q2, still unrevised as of this grading) both arrived exactly where the question got interesting, and both times the answer was one step away. Plant a flag; being wrong in a draft is free.
 - **Headwinds is weather** — the metaphor's real work is converting a management failure into an act of God. Ask of any dead metaphor: *taken literally, does it hold?*
 - **Deleveraging usually means forced selling.** The word makes a margin call sound like a strategy.
