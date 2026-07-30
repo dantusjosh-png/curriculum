@@ -232,7 +232,7 @@ Your first entries go in today, from Orwell and Didion. Ten entries minimum befo
 
 <div class="cc-answer" data-id="writing-m2-app" data-title="Application — The Precision Exercise (both versions + reflection + 10 Lexicon entries)"></div>
 
-**2026-07-29 — RETEACH.** Version 1 (a Monte Carlo table, thirty people, six languages) has one genuinely strong sentence — the quiet-loss/loud-win contrast — but "chaos" and "energy...bursting" name the feeling twice instead of building it. Version 2 doesn't do the module's actual work: it's version 1's casualness with the details stripped out, not institutional prose — no real Latinate diction, no hedging, plus a subject-verb slip and a typo. The reflection correctly spots that version 2 hides the losses but never answers the second half of the prompt: when a professional might legitimately want that. The ten Lexicon entries named in the submission title weren't attached. Full feedback: [issue #14](https://github.com/dantusjosh-png/curriculum/issues/14).
+**2026-07-30 — RETEACH (redo).** Version 1 is unchanged — the quiet-loss/loud-win sentence still stands as the best line in it, but "chaos" and "bursting" still name the feeling rather than build it. Version 2 got a vocabulary swap (*people→individuals, wins→fortunes, rich→wealthy*) but not a register change — same sentence structure as before, no passive voice, no hedging, and the earlier subject-verb slip ("a large amount of money **are** exchanged") is still uncorrected, plus a new capitalization typo. The reflection is word-for-word identical to the prior submission — the missing second half of Part 3 (when a professional might legitimately want what version 2 hides) still hasn't been attempted. Lexicon entries are tracked separately ([batch 3, issue #15](https://github.com/dantusjosh-png/curriculum/issues/15) — INCOMPLETE). Full feedback: [issue #16](https://github.com/dantusjosh-png/curriculum/issues/16).
 
 ---
 
@@ -251,7 +251,7 @@ Your first entries go in today, from Orwell and Didion. Ten entries minimum befo
 | Discussion Q2 — against Orwell | Redo — answered consistency, not the steelman |
 | Discussion Q3 — crutch register | Needs examples |
 | Lexicon — batches 1–3 | **Incomplete — 10/10 by count, 0/10 in full format** ([batch 1](https://github.com/dantusjosh-png/curriculum/issues/11), [batch 2](https://github.com/dantusjosh-png/curriculum/issues/13), [batch 3](https://github.com/dantusjosh-png/curriculum/issues/15)) |
-| Application — The Precision Exercise | Redo — version 2 isn't institutional register; reflection half-answered ([feedback](https://github.com/dantusjosh-png/curriculum/issues/14)) |
+| Application — The Precision Exercise | Redo again — version 2 still a vocabulary swap, not institutional register; reflection resubmitted unrevised ([feedback](https://github.com/dantusjosh-png/curriculum/issues/16)) |
 
 ### What happened
 
@@ -263,7 +263,7 @@ The module falls short on **production**, not understanding. Three deliverables 
 
 ### Outstanding — required to close Module 2
 
-1. **The Precision Exercise** (Application) — redo. Version 2 needs genuine Latinate/passive/hedged register (not just version 1 in a lower mood), and the reflection needs its second sentence: when a professional might legitimately want what version 2 hides ([feedback](https://github.com/dantusjosh-png/curriculum/issues/14)).
+1. **The Precision Exercise** (Application) — redo, second time. Version 2 needs actual passive voice, hedging, and nominalization — not fancier nouns on the same sentences — and the reflection needs the scenario it's still missing: when a professional might legitimately want what version 2 hides ([feedback](https://github.com/dantusjosh-png/curriculum/issues/16)).
 2. **Lexicon** — 10 entries in full format. Ten distinct words are now captured across three batches, hitting the count for the first time, but not one carries a source sentence or register, five of the near-synonyms drawn (idiom, superfluous, shirk, deplore, humbug) are wrong or too loose, and *jargon* has been resubmitted unrevised in all three batches ([latest feedback](https://github.com/dantusjosh-png/curriculum/issues/15)).
 3. **Discussion Q2 redo** + Q3 examples — steelman Orwell's critics rather than noting his inconsistency.
 
