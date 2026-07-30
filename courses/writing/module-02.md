@@ -250,7 +250,7 @@ Your first entries go in today, from Orwell and Didion. Ten entries minimum befo
 | Discussion Q1 — ethics of diction | **Pass — strongest work to date** ([feedback](https://github.com/dantusjosh-png/curriculum/issues/12)) |
 | Discussion Q2 — against Orwell | Redo — answered consistency, not the steelman |
 | Discussion Q3 — crutch register | Needs examples |
-| Lexicon — batches 1–2 | **Incomplete — 2 of 10** ([batch 1](https://github.com/dantusjosh-png/curriculum/issues/11), [batch 2](https://github.com/dantusjosh-png/curriculum/issues/13)) |
+| Lexicon — batches 1–3 | **Incomplete — 10/10 by count, 0/10 in full format** ([batch 1](https://github.com/dantusjosh-png/curriculum/issues/11), [batch 2](https://github.com/dantusjosh-png/curriculum/issues/13), [batch 3](https://github.com/dantusjosh-png/curriculum/issues/15)) |
 | Application — The Precision Exercise | Redo — version 2 isn't institutional register; reflection half-answered ([feedback](https://github.com/dantusjosh-png/curriculum/issues/14)) |
 
 ### What happened
@@ -264,7 +264,7 @@ The module falls short on **production**, not understanding. Three deliverables 
 ### Outstanding — required to close Module 2
 
 1. **The Precision Exercise** (Application) — redo. Version 2 needs genuine Latinate/passive/hedged register (not just version 1 in a lower mood), and the reflection needs its second sentence: when a professional might legitimately want what version 2 hides ([feedback](https://github.com/dantusjosh-png/curriculum/issues/14)).
-2. **Lexicon** — 10 entries in full format, each with the sentence it appeared in. Two submitted across two batches; neither has a source sentence, register, or worked-out distinction, and batch two resubmitted batch one's entry unrevised ([latest feedback](https://github.com/dantusjosh-png/curriculum/issues/13)).
+2. **Lexicon** — 10 entries in full format. Ten distinct words are now captured across three batches, hitting the count for the first time, but not one carries a source sentence or register, five of the near-synonyms drawn (idiom, superfluous, shirk, deplore, humbug) are wrong or too loose, and *jargon* has been resubmitted unrevised in all three batches ([latest feedback](https://github.com/dantusjosh-png/curriculum/issues/15)).
 3. **Discussion Q2 redo** + Q3 examples — steelman Orwell's critics rather than noting his inconsistency.
 
 ### Carried forward

@@ -76,5 +76,6 @@ Pairs writers routinely confuse. Write the distinction for each in your own word
 |:--|:--|:--|:--|:--|
 | 2026-07-29 | Module 2 batch 1 | 1 | 1 | **Incomplete** — 10 required; entry was a word already in active use, and omitted the source sentence ([feedback](https://github.com/dantusjosh-png/curriculum/issues/11)) |
 | 2026-07-29 | Module 2 batch 2 | 2 (1 new — *jargon* resubmitted unrevised, *hackneyed* new) | 2 | **Incomplete** — prior feedback not incorporated; still no source sentence or register on either entry ([feedback](https://github.com/dantusjosh-png/curriculum/issues/13)) |
+| 2026-07-30 | Module 2 batch 3 | 8 new (*tabulate, idiom, superfluous, shirk, deplore, jeer, archaism, humbug*); *jargon* and *hackneyed* resubmitted unrevised for the second and third time | 10 | **Incomplete** — count target reached, but zero of the ten entries carry a source sentence or register, and five of the near-synonyms (idiom, superfluous, shirk, deplore, humbug) are wrong or too loose ([feedback](https://github.com/dantusjosh-png/curriculum/issues/15)) |
 
-**Currently owed: 8 entries to close Module 2.**
+**Count target reached (10/10) — but the format requirement (source sentence, register, worked-out distinction) hasn't been demonstrated on a single entry across three batches. Reformat all ten, fix the five broken distinctions, and finally revise (or replace) *jargon* before this closes.**
