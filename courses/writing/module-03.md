@@ -6,7 +6,7 @@ nav_order: 3
 
 # Module 3: Clarity & Clutter
 
-**Stage I — The Sentence** · **Status: ⏳ In progress** · Opened 2026-07-30
+**Stage I — The Sentence** · **Status: ⏳ In progress — 3 items outstanding** · Graded 2026-07-31 · **Verdict: INCOMPLETE**
 
 **Core question:** Why does writing that is technically correct still fail to be understood?
 
@@ -198,6 +198,8 @@ Answer all three, then submit them together.
 
 <div class="cc-submit" data-group="writing-m3-discussion" data-title="Writing M3 — Discussion answers"></div>
 
+**2026-07-31 — PASS on Q1, RETEACH on Q2 and Q3.** Q1 passes: the Watergate/Epstein example is a real instance caught in the writer's own draft, not a hypothetical. Q2 picked a genuinely good example (Orwell's sentence is clearer in full than shortened) but stopped at "it feels more fluid" instead of naming what the extra words ("attitude," "grown used to," "now fashionable") actually add. Q3's self-diagnosis ("too much time explaining, too little proving the point, or vice versa") is the same shape as the vague answer the prompt explicitly warned against — no searchable pattern named. Full feedback: [issue #23](https://github.com/dantusjosh-png/curriculum/issues/23).
+
 ---
 
 ## Application
@@ -215,4 +217,34 @@ Answer all three, then submit them together.
 
 ## Review
 
-_Pending._
+**Graded 2026-07-31 · Verdict: INCOMPLETE — module remains open.**
+
+### Scores
+
+| Item | Result |
+|:--|:--|
+| Session A Check — Pinker & the curse of knowledge | **5/5** ([issue #19](https://github.com/dantusjosh-png/curriculum/issues/19)) |
+| Session B Check — Clark's toolkit | **5/5** ([issue #21](https://github.com/dantusjosh-png/curriculum/issues/21)) |
+| Session A written — Find your own curse of knowledge | **Pass** ([feedback](https://github.com/dantusjosh-png/curriculum/issues/20)) |
+| Session B written — Cut big, then small | **Pass** ([feedback](https://github.com/dantusjosh-png/curriculum/issues/22)) |
+| Discussion Q1 — Assumed knowledge, for and against | **Pass** ([feedback](https://github.com/dantusjosh-png/curriculum/issues/23)) |
+| Discussion Q2 — Concise vs. clear | Redo — named a good example, didn't defend it |
+| Discussion Q3 — Your own clutter | Redo — self-diagnosis too vague, no searchable pattern |
+| Application — The Explainer | Not yet submitted |
+
+### What happened
+
+Comprehension is strong — 10/10 across both checks, extending the run from Modules 1 and 2. Both written checks pass on real, specific work: the curse-of-knowledge exercise found an actual unexplained reference in the writer's own draft (a TV character quoted without introduction) and fixed it with the right kind of detail; the cutting exercise correctly executed both halves of the drill (a real structural cut, then real word-level tightening), with one sharp craft note — the "small cut" pass quietly changed the ending's meaning rather than just its length, trading a specific, painful detail ("the life he could never have") for a generic one ("the life he wanted"). That's worth remembering: tightening and rewriting are different tools, and the exercise is testing whether you can tell them apart under your own editing.
+
+The discussion set is two-thirds there. Q1 is genuine — a real example caught in the writer's own words, not a hypothetical. Q2 and Q3 both stop at description instead of doing the analysis the prompts ask for: Q2 names a correct intuition (the longer sentence is clearer) without saying why, and Q3 offers a mood ("I over- or under-explain") where the module explicitly asked for a mechanical, searchable habit instead.
+
+### Outstanding — required to close Module 3
+
+1. **Discussion Q2 redo** — defend why the longer Orwell sentence is clearer by naming what its extra words (*attitude*, *grown used to*, *now fashionable*) actually add, not just that it "feels more fluid."
+2. **Discussion Q3 redo** — name one specific, searchable clutter habit (a phrase you overuse, a move you always make) and a concrete way you'll catch it — not a general mood.
+3. **Application — The Explainer** — not yet submitted (400 words + reflection).
+
+### Carried forward
+
+- **The hedge-before-the-real-answer pattern has now shown up in every module.** M1 Q1 stopped at "I really don't know," M2 Q2 stopped at "I don't really know," M3 Q2 stops at "I don't know exactly why." Same move each time: reach the interesting part of the question, then set it down. Worth noticing before it's written, not after.
+- **Tightening ≠ rewriting.** A word-level pass should not change what a sentence means. If a cut changes the content, it belongs in the "big cut" conversation, where it has to be justified out loud — not smuggled into what's framed as a small one.
